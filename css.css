@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap);
+
+body{
+    background-color: rgb(14, 14, 14);
+}
+
+form{
+    position: relative;
+    top: 250px;
+    text-align: center;
+    background-color: #151516;
+    height: 400px;
+    width: 400px;
+    border-radius: 40px;
+    border: 0.9px solid #c7c7cc;
+    margin: auto;
+    text-align: center;
+}
+.github{
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+    transition: all 0.3s ease;
+}
+
+.th{
+    position: relative;
+    top: 40px;
+    font-family: Montserrat;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+.pr{
+    position: relative;
+    top: 30px;
+    border-radius: 200px;
+}
+
+.links{
+    text-decoration: none;
+    margin: 80px 0;
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+
+
+.profile{
+    text-align: center;
+}
+
+.youtube{
+    text-decoration: none;
+    height: 50px;
+    width: 50px;
+    transition: all 0.3s ease;
+}
+
+
+.youtube:hover{
+    height: 60px;
+    width: 60px;
+}
+
+.github:hover{
+    height: 60px;
+    width: 60px;
+}
